@@ -65,24 +65,43 @@ Some of their positive effects may be related to reduced inflammation
 * [Eicosapenaenoic acid (EPA)](https://en.wikipedia.org/wiki/Eicosapentaenoic_acid)
 * [Docosahexaenoic acid (DHA)](https://en.wikipedia.org/wiki/Docosahexaenoic_acid)
 
+#### Role in inflammation
+
+TODO
+
+#### Role in cognition and brain development
+
+TODO
 
 ### Omega-6 fatty acids
+
+TODO
 
 
 ## Lipoproteins
 
 ### LDL, VLDL, APOb and HDL
 
+TODO
 
 
 ### Role in inflammation
 
+TODO
+
 
 ### Interventions which affect lipoprotein levels
 
+TODO
+
 #### Drugs
+
+* [Statins](../interventions/statins.md)
 
 #### Fiber
 
+TODO
+
 #### Dietary lipids
 
+TODO

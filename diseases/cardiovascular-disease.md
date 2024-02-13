@@ -1,6 +1,7 @@
 # Cardiovascular Disease
 
-The primary concern for middle-aged males with hypertension and high LDL-C is atherosclerosic plaque formation restricting blood supply to critical areas. The most important are coronary arteries (heart attack) and arteries in the brain (stroke).
+The primary concern for middle-aged males with obesity, hypertension and high LDL-C is atherosclerosic plaque formation restricting blood supply to critical areas.
+The most important are accute blood supply restrictions in coronary arteries (heart attack) and arteries in the brain (stroke).
 
 ## Atherosclerosis
 
@@ -15,3 +16,15 @@ There are some feedback loops that cause this problem to get worse over time:
    Blood pressure physically forces LDL particles further into the arterial lining, which speeds up the hardening of the arteries.
 2. One of the purposes of LDL-C is to bring cholesterol to inflamed tissue where it can be used in an immune response or tissue repair.
    Arterial plaques become inflamed, leading to an increase in the amount of LDL-C
+
+### Role of Lipoproteins
+
+### Relationship to metabolic syndrome
+
+## Hypertension
+
+### Relationship to metabolic syndrome
+
+
+
+

@@ -6,3 +6,20 @@ I am not a healthcare professional, and nothing on this site should be considere
 
 ## Physiology
 * [Lipids](./physiology/lipids.md)
+
+## Diseases
+* [Cardiovascular disease](./diseases/cardiovascular-disease.html)
+
+## Potential Interventions
+
+* Nutrition:
+  * ...
+* Exercise:
+  * [Aerobic Exercise](./interventions/aerobic-exercise.md)
+  * [Weightlifting](./interventions/weightlifting.md)
+  * [Isometric Exercise](./interventions/isometric-exercise.md)
+* Drugs:
+  * ...
+* Supplements:
+  * ...
+

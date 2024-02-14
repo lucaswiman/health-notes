@@ -1,5 +1,19 @@
 # Phytosterols
 
+## Key questions
+### Are phytosterols safe/effective?
+
+Current thinking (Feb 2024):
+* They probably contribute slightly to atherosclerosis.
+* The atherosclerotic effect is significantly mediated by transporters that remove them from the blood and the preference for cholesterol of transporters that move cholesterol from the intestine to the blood.
+  In particular, the plasma concentration remains low with moderate supplementation.
+* The reduction of cholesterol from moderate supplementation is probably on-balance good, but less good than a drug like ezetimibe.
+  Statins also seem like a better option.
+* Eating foods rich in phytosterols like nuts, vegetable oils and some vegetables is probably good.
+* Supplementing > 2g per day is probably unwise.
+  The 2g/day dose does lower LDL levels, and is much lower than the levels usually used in animal models showing negative effects.
+* It would be good to have more studies on all-cause mortality and cardiac events, but it works in a similar fashion to drugs and reducing LDL cholesterol levels tends to reduce atherosclerosis.
+
 ## Literature
 
 ### Phytosterols and Cardiovascular Disease
@@ -38,18 +52,3 @@ Of note:
 > Phytosterol intake was not associated with LDL or HDL cholesterol levels.
 
 However, the maximum dietary consumption is probably too low to have much effect on LDL levels.
-
-
-## Key questions
-### Are phytosterols safe/effective?
-
-Current thinking (Feb 2024):
-* They probably contribute slightly to atherosclerosis.
-* The atherosclerotic effect is significantly mediated by transporters that remove them from the blood and the preference for cholesterol of transporters that move cholesterol from the intestine to the blood.
-  In particular, the plasma concentration remains low with moderate supplementation.
-* The reduction of cholesterol from moderate supplementation is probably on-balance good, but less good than a drug like ezetimibe.
-  Statins also seem like a better option.
-* Eating foods rich in phytosterols like nuts, vegetable oils and some vegetables is probably good.
-* Supplementing > 2g per day is probably unwise.
-  The 2g/day dose does lower LDL levels, and is much lower than the levels usually used in animal models showing negative effects.
-* It would be good to have more studies on all-cause mortality and cardiac events, but it works in a similar fashion to drugs and reducing LDL cholesterol levels tends to reduce atherosclerosis.

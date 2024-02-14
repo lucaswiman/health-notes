@@ -15,11 +15,11 @@ I am not a healthcare professional, and nothing on this site should be considere
 * Nutrition:
   * ...
 * Exercise:
-  * [Aerobic Exercise](./interventions/aerobic-exercise.md)
-  * [Weightlifting](./interventions/weightlifting.md)
-  * [Isometric Exercise](./interventions/isometric-exercise.md)
+  * [Aerobic Exercise](./interventions/exercise/aerobic-exercise.md)
+  * [Weightlifting](./interventions/exercise/weightlifting.md)
+  * [Isometric Exercise](./interventions/exercise/isometric-exercise.md)
 * Drugs:
   * ...
 * Supplements:
-  * ...
+  * [Phytosterols](./interventions/supplements/phytosterols.md)
 

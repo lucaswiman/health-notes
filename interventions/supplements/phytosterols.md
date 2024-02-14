@@ -27,7 +27,7 @@ Animal studies are inconsistent, with some studies showing no effect.
 The studies showing negative effects involved:
 1. [Very high levels](https://www.sciencedirect.com/science/article/pii/S0735109708004579?via%3Dihub): 2% phytosterols by weight.
    This would be equivalent to a human eating tens of grams of phytosterols per day.
-   In this study, atherosclerotic plaques were still reduced relative to the control, but were larger than treatment with ezetimibe (a drug that acts in a similar way, preventing reabsorption of phytosterols).
+   In this study, atherosclerotic plaques were still reduced relative to the control, but were larger than treatment with ezetimibe (a drug that acts in a similar way, preventing reabsorption of cholesterol).
    The plaques also contained phytosterols, supporting the idea that phytosterol in blood can cause atherosclerotic plaques, supported by the pathology of [sitosterolemia](https://en.wikipedia.org/wiki/Sitosterolemia).
    Still, it seems like this study shows that phytosterol supplementation is probably effective, just less effective than ezetimibe (in mice).<br />
    This study also looked at humans taking a phytosterol-supplemented margarine.

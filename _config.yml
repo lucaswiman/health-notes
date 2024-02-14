@@ -1,5 +1,8 @@
 # based on https://jekyllrb.com/docs/continuous-integration/github-actions/
 
 title: Health Notes
+
 exclude:
 - README.md
+author: Lucas Wiman
+theme: jekyll-theme-minimal

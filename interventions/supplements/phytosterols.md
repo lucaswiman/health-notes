@@ -22,7 +22,7 @@ The studies showing negative effects involved:
 2. Models of sitosterolemia, (ABCG5/ABCG8 knockouts). Probably not relevant.
 
 Also of note:
-> As early as 2000, Ratnayake and colleagues found that vegetable oil rich in phytosterols makes red blood cells more rigid and less flexible and results in significant shortening of the lifespan of rats [59](https://pubmed.ncbi.nlm.nih.gov/10801914/). This finding leads to the ban of any phytosterol-enriched foods in Canada in 2003 [60](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2642922/).
+> As early as 2000, Ratnayake and colleagues found that vegetable oil rich in phytosterols makes red blood cells more rigid and less flexible and results in significant shortening of the lifespan of rats [[59]](https://pubmed.ncbi.nlm.nih.gov/10801914/). This finding leads to the ban of any phytosterol-enriched foods in Canada in 2003 [[60]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2642922/).
 
 
 ## Key questions
@@ -36,5 +36,5 @@ Current thinking (Feb 2024):
   Statins also seem like a better option.
 * Eating foods rich in phytosterols like nuts, vegetable oils and some vegetables is probably good.
 * Supplementing > 2g per day is probably unwise.
-  The 2g/day dose does lower LDL levels, and is much lower than the levels usually used in animal models.
+  The 2g/day dose does lower LDL levels, and is much lower than the levels usually used in animal models showing negative effects.
 * It would be good to have more studies on all-cause mortality and cardiac events, but it works in a similar fashion to drugs and reducing LDL cholesterol levels tends to reduce atherosclerosis.

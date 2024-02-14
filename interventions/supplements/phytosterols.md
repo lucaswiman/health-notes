@@ -12,7 +12,8 @@ Current thinking (Feb 2024):
 * Eating foods rich in phytosterols like nuts, vegetable oils and some vegetables is probably good.
 * Supplementing > 2g per day is probably unwise.
   The 2g/day dose does lower LDL levels, and is much lower than the levels usually used in animal models showing negative effects.
-* It would be good to have more studies on all-cause mortality and cardiac events, but it works in a similar fashion to drugs and reducing LDL cholesterol levels tends to reduce atherosclerosis.
+* It would be good to have more studies on all-cause mortality and cardiac events.
+* However, it works in a similar fashion to drugs and reducing LDL cholesterol levels tends to reduce atherosclerosis, so is probably beneficial unless I start taking drugs for cholesterol management.
 
 ## Literature
 

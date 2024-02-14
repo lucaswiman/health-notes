@@ -42,6 +42,28 @@ Also of note:
 
 TODO
 
+#### [Genome-wide meta-analysis of phytosterols reveals five novel loci and a detrimental effect on coronary atherosclerosis](https://www.nature.com/articles/s41467-021-27706-6)
+
+Figure 4 lists several SNPs identified as relating to phytosterol metabolism. Among those present in my 23andme file, we have the following genotypes:
+
+| rsid                                                         | chromosome | position  | genotype |
+|--------------------------------------------------------------|------------|-----------|----------|
+| [rs11887534](https://www.snpedia.com/index.php/Rs11887534)   | 2          | 44066247  | GG       |
+| [rs4299376](https://www.snpedia.com/index.php/Rs4299376)     | 2          | 44072576  | GT       |
+| [rs217385](https://www.snpedia.com/index.php/Rs217385)       | 7          | 44602187  | GT       |
+| [rs10846744](https://www.snpedia.com/index.php/Rs10846744)   | 12         | 125312425 | GG       |
+| [rs4245791](https://www.snpedia.com/index.php/rs4245791)     | 2          | 44074431  | CT       |
+
+Notes:
+* rs11887534 GG has normal risk of gallstones [snpedia]; C seems to be repeatedly be associated to risk of gallstones. [ref](https://www.ebi.ac.uk/gwas/variants/Rs11887534)
+* rs4299376 T seems to have reduced levels of LDL; G may be associated with higher risks of coronary artery disease. [ref](https://www.ebi.ac.uk/gwas/variants/rs4299376)
+* rs217385 T is associated with lowered campesterol levels [ref](https://www.ebi.ac.uk/gwas/variants/Rs217385)
+* rs10846744 The "risk allele" is C, but I'm a GG homozygote [snpedia]; G is associated to lower serum fat-soluble vitamin levels, small decrease in vldl [ref](https://www.ebi.ac.uk/gwas/variants/rs10846744).
+* rs4245791 The "risk allele" is G, my genotype is CT [snpedia]. C is associated with increased phytosterol levels;__ T seems to be associated with better blood lipid levels [ref](https://www.ebi.ac.uk/gwas/variants/rs4245791).
+
+Overall, seems like a mixed bag; not super surprising for a complex polygenic trait like this.
+
+
 #### [Phytosterol Intake and Risk of Coronary Heart Disease in U.S. Men and Women (2022)](https://www.ahajournals.org/doi/10.1161/circ.146.suppl_1.13262)
 
 Showed hazard ratios <1 for dietary consumption of total phytosterols, and for campesterol, stigmasterol and beta-sitosterol, using food frequency questionaires.

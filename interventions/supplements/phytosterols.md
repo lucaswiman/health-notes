@@ -3,7 +3,7 @@
 ## Literature
 
 ### Phytosterols and Cardiovascular Disease
-[doi: 10.1007/s11883-021-00964-x](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8410723/)
+#### [Phytosterols and Cardiovascular Disease (2021)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8410723/)
 
 > Cholesterol and phytosterols are absorbed in the small intestine (Fig. 1). They are solubilized and incorporated into micelles and absorbed via a specific carrier — Niemann-Pick C1-like protein 1 (NPC1L1) [12]. The heterodimer ATP binding cassette transporter G5 and G8 (ABCG5/8) secretes phytosterols and small amounts of cholesterol back into the intestinal lumen [13, 14]. The same processes occur in the hepatocyte, where both NPC1L1 and ABCG5/8 are expressed. As a result of this selection, which can be interpreted as a “defense mechanism” against phytosterols, plasma plant sterol concentration is 1000-fold lower than plasma cholesterol levels.
 
@@ -23,6 +23,21 @@ The studies showing negative effects involved:
 
 Also of note:
 > As early as 2000, Ratnayake and colleagues found that vegetable oil rich in phytosterols makes red blood cells more rigid and less flexible and results in significant shortening of the lifespan of rats [[59]](https://pubmed.ncbi.nlm.nih.gov/10801914/). This finding leads to the ban of any phytosterol-enriched foods in Canada in 2003 [[60]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2642922/).
+
+#### [Phytosterols in the Treatment of Hypercholesterolemia and Prevention of Cardiovascular Diseases (2017)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5729784/)
+
+TODO
+
+#### [Phytosterol Intake and Risk of Coronary Heart Disease in U.S. Men and Women (2022)](https://www.ahajournals.org/doi/10.1161/circ.146.suppl_1.13262)
+
+Showed hazard ratios <1 for dietary consumption of total phytosterols, and for campesterol, stigmasterol and beta-sitosterol, using food frequency questionaires.
+Given that fatty plant foods may be healthy for many reasons and that fatty animal foods are probably unhealthy, this seems very confounded.
+Also, food frequency questionaires are kinda sketch.
+
+Of note:
+> Phytosterol intake was not associated with LDL or HDL cholesterol levels.
+
+However, the maximum dietary consumption is probably too low to have much effect on LDL levels.
 
 
 ## Key questions

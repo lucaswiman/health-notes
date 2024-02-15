@@ -5,6 +5,7 @@ This site summarizes information from my own reading for health problems I am tr
 I am not a healthcare professional, and nothing on this site should be considered medical advice.
 
 ## Physiology
+* [Alcohol](./physiology/alcohol.md)
 * [Lipids](./physiology/lipids.md)
 
 ## Diseases
@@ -16,10 +17,11 @@ I am not a healthcare professional, and nothing on this site should be considere
   * ...
 * Exercise:
   * [Aerobic Exercise](./interventions/exercise/aerobic-exercise.md)
-  * [Weightlifting](./interventions/exercise/weightlifting.md)
   * [Isometric Exercise](./interventions/exercise/isometric-exercise.md)
+  * [Weightlifting](./interventions/exercise/weightlifting.md)
 * Drugs:
   * ...
 * Supplements:
+  * [Fiber](./interventions/supplements/fiber.md)
   * [Phytosterols](./interventions/supplements/phytosterols.md)
 
